@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2019/04/26/Banniere-QDM.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: QuiDitMiam!
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
