@@ -1,17 +1,15 @@
 ---
-title: Charlize Babatunde
+title: Clauze Aurélien
 date: 2017-11-14 10:54:31 +0000
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
-sub_heading: Administration
-email: ''
+thumbnail: "/uploads/2019/04/26/aurelien-3.png"
+sub_heading: COO / CTO
+email: aurelien@quiditmiam.fr
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+Directeur Opérationnel / Fondateur
 
-Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
-
-Charlize graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Amateur de cuisine et de nouvelles technologies, Aurélien privilégie la qualité à la quantité. Il est le plus gourmet de l'équipe, non pas le plus gourmand. Mélomane et sportif, il se sent particulièrement concerné par l'alimentation et l'éducation au goût, c'est donc lui qui cuisine à la maison. Ingénieur en informatique de formation, il est le porteur du projet QuiDitMiam! depuis sa création. Un peu geek sur les bords, il n'a toujours rien trouvé de plus stimulant que d'écrire des lignes de codes si ce n'est sa femme, avec qui il a fait deux merveilleux enfants.
